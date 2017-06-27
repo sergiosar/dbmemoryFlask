@@ -140,7 +140,7 @@ def add_register():
 @app.route('/')
 @app.route('/index')
 def index():
-    return "Hello, World!"
+    return "init"
 
 
 
